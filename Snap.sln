@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snap", "Snap\Snap.csproj", "{F787BD63-F425-44E3-9E87-B72BA7339561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{CEBD29E3-CBC8-4B3E-9670-9D7271D9D102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Tests", "Business.Tests\Business.Tests.csproj", "{35935AB9-BD85-47CD-8365-662FE7DD1F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F787BD63-F425-44E3-9E87-B72BA7339561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F787BD63-F425-44E3-9E87-B72BA7339561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F787BD63-F425-44E3-9E87-B72BA7339561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F787BD63-F425-44E3-9E87-B72BA7339561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBD29E3-CBC8-4B3E-9670-9D7271D9D102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBD29E3-CBC8-4B3E-9670-9D7271D9D102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBD29E3-CBC8-4B3E-9670-9D7271D9D102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBD29E3-CBC8-4B3E-9670-9D7271D9D102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35935AB9-BD85-47CD-8365-662FE7DD1F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35935AB9-BD85-47CD-8365-662FE7DD1F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35935AB9-BD85-47CD-8365-662FE7DD1F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35935AB9-BD85-47CD-8365-662FE7DD1F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
